@@ -8,10 +8,6 @@ public class HelloGit {
 			System.out.println("It's collaboration");	
 			System.out.println("Conflict");
 
-		
-
-		
-
 
 		}
 }
